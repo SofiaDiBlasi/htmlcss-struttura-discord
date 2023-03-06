@@ -39,14 +39,14 @@ nav{
     background-color:#ffffff ;
     display: flex;
     margin: auto;
-    padding: 200px;
+    padding: 40px;
 }
 
 .greyback{
     background-color: #d3d3d3;
     display: flex;
     margin: auto;
-    padding: 200px;
+    padding: 40px;
 }
 
 .contenitire{
@@ -59,16 +59,17 @@ nav{
 .pinkblock{
     background-color: #ffc0cb;
     width: 40%;
-    min-height: 500px;
+    min-height: 200px;
 }
 
 .blueblock{
     background-color: #1e90ff;
     width: 60%;
-    min-height: 500px;
+    min-height: 200px;
 }
 
 .greenblock{
     background-color: #228b22;
-    width: 50%;
+    width: 100%;
+    min-height: 500px;
 }
