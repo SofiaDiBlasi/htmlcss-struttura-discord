@@ -34,3 +34,33 @@ nav{
     min-height: 200px;
     
 }
+
+.whiteback{
+    background-color:#ffffff ;
+}
+
+.greyback{
+    background-color: #d3d3d3;
+}
+
+.contenitire{
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    display: inline-block;
+}
+
+.pinkblock{
+    background-color: #ffc0cb;
+    width: 50%;
+}
+
+.blueblock{
+    background-color: #1e90ff;
+    width: 50%;
+}
+
+.greenblock{
+    background-color: #228b22;
+    width: 50%;
+}
