@@ -12,7 +12,7 @@ header{
 
 nav{
     background-color: #daa520;
-    max-width: 900px;
+    max-width: 50%;
     margin: auto;
     display: flex;
     justify-content: space-between;
@@ -30,7 +30,7 @@ nav{
 .lilacback{
     background-color: #ee82ee;
     margin: auto;
-    max-width: 50%;
+    max-width: 30%;
     min-height: 200px;
     
 }
@@ -40,6 +40,7 @@ nav{
     display: flex;
     margin: auto;
     padding: 40px;
+    justify-content: center;
 }
 
 .greyback{
@@ -47,6 +48,7 @@ nav{
     display: flex;
     margin: auto;
     padding: 40px;
+    justify-content: center;
 }
 
 .contenitOre{
@@ -58,20 +60,20 @@ nav{
 
 .pinkblock{
     background-color: #ffc0cb;
-    width: 40%;
+    width: 20%;
     min-height: 200px;
 }
 
 .blueblock{
     background-color: #1e90ff;
-    width: 60%;
+    width: 30%;
     min-height: 200px;
 }
 
 .greenblock{
     background-color: #228b22;
-    width: 100%;
-    min-height: 200px;
+    width: 50%;
+    min-height: 400px;
 }
 
 .darkback{
@@ -80,26 +82,31 @@ nav{
     padding: 40px;
     display: flex;
     padding: 20px;
+    justify-content: center;
 }
 
 .salmonpink{
     background-color: #f08080;
-    width: 20%;
+    width: 14%;
     min-height: 200px;
 }
 
 .teal{
     background-color: #20b2aa;
-    width: 80%;
+    width: 35%;
     min-height: 200px;
 }
 
 .turquoise{
     background-color: #7fffd4;
-    width: 100%;
-    min-height: 100px;
+    width:49%;
+    min-height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .babypink{
     background-color: #ffb6c1;
+    padding: 5px 8px;
 }
