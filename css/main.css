@@ -49,7 +49,7 @@ nav{
     padding: 40px;
 }
 
-.contenitire{
+.contenitOre{
     max-width: 500px;
     margin: auto;
     padding: 20px;
@@ -71,5 +71,35 @@ nav{
 .greenblock{
     background-color: #228b22;
     width: 100%;
-    min-height: 500px;
+    min-height: 200px;
+}
+
+.darkback{
+    background-color: #23272a;
+    width: 100%;
+    padding: 40px;
+    display: flex;
+    padding: 20px;
+}
+
+.salmonpink{
+    background-color: #f08080;
+    width: 20%;
+    min-height: 200px;
+}
+
+.teal{
+    background-color: #20b2aa;
+    width: 80%;
+    min-height: 200px;
+}
+
+.turquoise{
+    background-color: #7fffd4;
+    width: 100%;
+    min-height: 100px;
+}
+
+.babypink{
+    background-color: #ffb6c1;
 }
