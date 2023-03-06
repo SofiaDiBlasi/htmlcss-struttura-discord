@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #add8e6;
+    max-width: 2000;
+    padding-top: 10px;
+}
+
+nav{
+    background-color: #daa520;
+    max-width: 900px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+
+.contenitoreheader{
+    background-color: #00008b;
+    width: 100%;
+    padding: 40px;
+}
+
+.lilacback{
+    background-color: #ee82ee;
+    margin: auto;
+    max-width: 50%;
+    min-height: 200px;
+    
+}
