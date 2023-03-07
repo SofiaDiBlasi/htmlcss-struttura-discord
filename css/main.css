@@ -102,6 +102,7 @@ nav{
     background-color: #20b2aa;
     width: 35%;
     min-height: 200px;
+    display: flex;
 }
 
 .turquoise{
@@ -117,4 +118,9 @@ nav{
     background-color: #ffb6c1;
     padding: 5px 8px;
     border: 1px dashed;
+}
+
+.minicolumn{
+    border: 1px white dashed;
+    width: 25%;
 }
