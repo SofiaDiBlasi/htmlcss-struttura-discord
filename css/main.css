@@ -32,7 +32,7 @@ nav{
     margin: auto;
     max-width: 30%;
     min-height: 200px;
-    
+    border: 1px dashed;
 }
 
 .whiteback{
@@ -62,18 +62,24 @@ nav{
     background-color: #ffc0cb;
     width: 20%;
     min-height: 200px;
+    border: 1px dashed;
+
 }
 
 .blueblock{
     background-color: #1e90ff;
     width: 30%;
     min-height: 200px;
+    border: 1px dashed;
+
 }
 
 .greenblock{
     background-color: #228b22;
     width: 50%;
     min-height: 400px;
+    border: 1px dashed;
+
 }
 
 .darkback{
@@ -89,6 +95,7 @@ nav{
     background-color: #f08080;
     width: 14%;
     min-height: 200px;
+    border: 1px dashed;
 }
 
 .teal{
@@ -109,4 +116,5 @@ nav{
 .babypink{
     background-color: #ffb6c1;
     padding: 5px 8px;
+    border: 1px dashed;
 }
